@@ -1,0 +1,8 @@
+spring:
+  mongodb:
+    username: sa
+    password: Passw0rd
+    host: localhost
+    port: 27017
+    database: AvisDatabase
+    authentication-database: admin
